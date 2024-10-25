@@ -6,6 +6,9 @@ Ce projet est une application simple permettant de gérer des fichiers texte en 
 ## Installation
 
 1. Clonez ce dépôt ou téléchargez-le sur votre machine.
+ ```bash
+   git clone https://github.com/hsenhadji/Gestion-de-fichiers---Python.git
+   ```
 2. Créez un environnement virtuel :
    ```bash
    python3 -m venv Projet
